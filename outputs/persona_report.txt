@@ -1,0 +1,58 @@
+MALL CUSTOMERS — PERSONAS & MARKETING PLAYBOOK
+==================================================
+
+🪙  Sanjay the Sensible Saver  (Sensible / Frugal)
+   Low income, low spending — careful with money.
+   Size: 20 customers | Avg age 46 | income $27k | spending 18
+   Price-sensitive and low-engagement. Don't overspend on acquiring them; focus on light, cheap retention.
+   Playbook:
+     - Essentials and everyday-value messaging
+     - Occasional deep-discount campaigns
+     - Low-cost email newsletters only
+     - Don't burn ad budget chasing them
+   Best channel: Email newsletter + seasonal offers
+
+🛍️  Aisha the Aspirational Spender  (Careless (low income, high spend))
+   Loves to shop, watches the budget.
+   Size: 54 customers | Avg age 25 | income $41k | spending 62
+   Enthusiastic and engaged but income-limited. Great for volume if you make spending easy and affordable.
+   Playbook:
+     - EMI / buy-now-pay-later options
+     - Value bundles & combo offers
+     - Flash sales and loyalty points
+     - Gamified rewards to keep them coming
+   Best channel: Social media + SMS offers
+
+💎  Priya the Power Shopper  (Premium / Target)
+   High income, high spending — your VIPs.
+   Size: 40 customers | Avg age 33 | income $86k | spending 82
+   Affluent and happy to spend. Brand-loyal when treated well. The single most valuable group to retain.
+   Playbook:
+     - Exclusive early access & launches
+     - Tiered loyalty / VIP program
+     - Premium bundles and concierge service
+     - Personalised thank-you rewards
+   Best channel: App push + premium email + events
+
+🧐  Rohan the Reluctant Earner  (Careful (high income, low spend))
+   Money to spend, just not spending it here yet.
+   Size: 39 customers | Avg age 40 | income $86k | spending 19
+   High earning potential but low engagement. Convincing them is the biggest untapped opportunity.
+   Playbook:
+     - Personalised product recommendations
+     - Limited-time premium trials
+     - Showcase quality & exclusivity, not discounts
+     - Win trust with reviews & guarantees
+   Best channel: Targeted email + retargeting ads
+
+🪙  Sanjay the Sensible Saver  (Sensible / Frugal)
+   Low income, low spending — careful with money.
+   Size: 47 customers | Avg age 56 | income $54k | spending 49
+   Price-sensitive and low-engagement. Don't overspend on acquiring them; focus on light, cheap retention.
+   Playbook:
+     - Essentials and everyday-value messaging
+     - Occasional deep-discount campaigns
+     - Low-cost email newsletters only
+     - Don't burn ad budget chasing them
+   Best channel: Email newsletter + seasonal offers
+

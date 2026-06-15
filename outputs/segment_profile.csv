@@ -1,0 +1,6 @@
+Cluster,Customers,Avg_Age,Avg_Income,Avg_Spending,Segment,Persona
+0,20,46.2,26.8,18.4,Sensible / Frugal,Sanjay the Sensible Saver
+1,54,25.2,41.1,62.2,"Careless (low income, high spend)",Aisha the Aspirational Spender
+2,40,32.9,86.1,81.5,Premium / Target,Priya the Power Shopper
+3,39,39.9,86.1,19.4,"Careful (high income, low spend)",Rohan the Reluctant Earner
+4,47,55.6,54.4,48.9,Sensible / Frugal,Sanjay the Sensible Saver

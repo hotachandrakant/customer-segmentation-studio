@@ -1,0 +1,5 @@
+Algorithm,Clusters,Silhouette,Davies-Bouldin,Calinski-Harabasz
+KMeans,5,0.417,0.875,125.1
+Agglomerative,5,0.39,0.916,107.8
+GaussianMixture,5,0.376,0.89,105.0
+DBSCAN,2,0.273,1.02,54.4
