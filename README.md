@@ -1,4 +1,4 @@
-# 🧬 Project 2 — Customer Segmentation Studio (Advanced + Creative)
+# 🧬  Customer Segmentation Studio
 
 **Thiranex Internship — Data Analyst Track**
 
